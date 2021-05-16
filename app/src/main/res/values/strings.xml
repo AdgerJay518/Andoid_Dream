@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="searchPlace">输入梦境关键字</string>
+    <string name="todo">TODO</string>
+    <string name="carInfo">车型</string>
+    <string name="more_detail">详细解释</string>
+</resources>
